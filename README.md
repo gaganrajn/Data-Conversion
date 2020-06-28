@@ -7,7 +7,7 @@ git clone https://github.com/gaganrajn.git
 ```
 Now, open the folder
 ```bash
-cd SimpFileConv
+cd SimpFileConversion
 ```
 # Primary Implementation
 Run the Python File
